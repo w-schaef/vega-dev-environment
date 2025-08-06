@@ -1,0 +1,6 @@
+{
+  "name": "Full Screen Vega Chart",
+  "description": "A simple app to render a responsive, full-screen Vega chart.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
